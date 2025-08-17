@@ -65,12 +65,11 @@ MAE (Mean Absolute Error)
 R² Score
 
 📊 Model Performance
-Metric	Value
-RMSE	XX.XX
-MAE	XX.XX
-R²	XX.XX
+| Metric | Value   |
+| ------ | -----   |
+| RMSE   |3716.6066|
+| R²     | 0.80063 |
 
-(Replace XX.XX with your actual results from the notebook)
 
 🛠️ Tech Stack
 
